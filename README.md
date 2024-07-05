@@ -1,2 +1,2 @@
 
-👋 | Vamos programar juntis?
+👋 • Vamos programar juntis?
