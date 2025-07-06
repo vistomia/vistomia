@@ -3,7 +3,7 @@
 
 ## Atualmente Estudando
 
-## Linguagens que tive contato
+## Linguagens que já explorei
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vistomia&theme=dark&hide_border=true)](https://git.io/streak-stats)
