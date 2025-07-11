@@ -19,6 +19,4 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vistomia&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vistomia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=495)
